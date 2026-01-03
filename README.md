@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-Spark Khoj is a full-stack MERN (MongoDB, Express, React, Node.js) web application designed to identify, nurture, and connect sports talent. It provides a platform where athletes can submit performance videos for AI-powered analysis, build their profiles, and gain visibility. The application fosters a competitive ecosystem with dynamic leaderboards and facilitates connections with coaches and sponsors through an integrated messaging system.
+Spark Khoj designed to identify, nurture, and connect sports talent. It provides a platform where athletes can submit performance videos for AI-powered analysis, build their profiles, and gain visibility. The application fosters a competitive ecosystem with dynamic leaderboards and facilitates connections with coaches and sponsors through an integrated messaging system.
 
 ---
 
