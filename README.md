@@ -1,0 +1,2 @@
+# Spark-Khoj---AI-Powered-Sports-Talent-Identification-Platform
+Spark Khoj designed to identify and connect sports talent. It provides a platform where athletes can submit performance videos for AI-powered analysis build their profiles and gain visibility. The application fosters a competitive ecosystem with dynamic leaderboards and facilitates connections with coaches and sponsors through an integrated system.
